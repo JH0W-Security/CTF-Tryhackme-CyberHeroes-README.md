@@ -6,4 +6,6 @@
 
 ---
 ## 🧪 Labs & Research
-* [PortSwigger Academy](./Labs/PortSwigger/README.md) - Web Security Academy Labs.
+* [PortSwigger Academy](./Labs/PortSwigger/username-enumeration-lockout-flaw/README.md) - Web Security Academy Labs.
+
+portswigger/username-enumeration-lockout-flaw
