@@ -6,4 +6,4 @@
 
 ---
 ## 🧪 Labs & Research
-* [PortSwigger Academy](./CTFs/portswigger/falha%20de%20bloqueio%20de%20enumeração%20de%20nome%20de%20usuário/README.md) - Web Security Academy Labs.
+* [PortSwigger Academy](./CTFs/portswigger/portswigger-user-enum/README.md) - Web Security Academy Labs.
